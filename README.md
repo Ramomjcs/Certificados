@@ -1,4 +1,4 @@
-# Certificados
+# Certificações
 
 ## Digital Innovation One
 
